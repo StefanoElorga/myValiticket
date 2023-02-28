@@ -1,0 +1,6 @@
+Options FollowSymLinks
+RewriteEngine on
+Options All -Indexes
+
+#secciones
+RewriteRule ^check/(.+)?$ controlar-qr.php?qr=$1

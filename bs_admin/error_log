@@ -1,0 +1,14 @@
+[19-Jan-2023 20:22:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:22:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:23:07 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function redimensionar_central() in /home2/ideasbin/public_html/valiticket/bs_admin/aprobar-evento.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/ideasbin/public_html/valiticket/bs_admin/aprobar-evento.php on line 20
+[19-Jan-2023 20:23:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:23:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:23:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:23:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:24:15 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[19-Jan-2023 20:24:15 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[30-Jan-2023 20:05:20 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184
+[30-Jan-2023 20:05:20 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home2/ideasbin/public_html/valiticket/bs_admin/listado-eventos.php on line 184

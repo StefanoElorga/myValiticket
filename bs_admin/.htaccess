@@ -1,0 +1,18 @@
+RewriteEngine on
+ErrorDocument 404 /404.php
+
+RewriteRule ^index.html$ index.php [L]
+#RewriteRule ^registro.htm$ form.php [L]
+#RewriteRule ^eventos.htm$ eventos.php [L]
+#RewriteRule ^single-blog.html$ single-blog.php [L]
+#RewriteRule ^(.+)_inversiones-details.html$ inversiones-details.php?id=$1 [L]
+#paginas
+
+
+#RewriteRule ^(.+).htm$ index.php?id=$1 [L]
+
+#RewriteCond %{QUERY_STRING} !id
+#RewriteRule ([^/]+)/?$ ?id=$1
+
+
+#RewriteRule ^institucional.htm$ seccion.php?id=5&idn=10 [L]
